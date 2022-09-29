@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yu2zaE4/xHrGNKraYg60PyoWhtgwXLnlo6kEGasziW4=",
+  "Source": "SingleSignONSAMLResponse",
+  "BasePath": "_content/SingleSignONSAMLResponse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
